@@ -51,3 +51,36 @@ Rolling updates
 CDN caching
 
 Your Compute Engine instance group will serve your website reliably under varying workloads with minimal manual intervention.
+
+## © Credit
+
+**No copyright intended.**
+All rights and credits for the original content belong to [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
+.
+DM for credit or removal requests. 🙏
+
+---
+
+## ▶️ Run the following command in Cloud Shell:
+
+```bash
+export ZONE=
+```
+```bash
+curl -LO https://raw.githubusercontent.com/dev23-extremis/Hosting-a-Web-App-on-Google-Cloud-Platform-Using-Compute-Engine/main/devang1.sh
+sudo chmod +x devang1.sh
+./devang1.sh
+```
+
+IMPORTANT : HIT CHECK MY PROGRESS UPTO Task 6
+
+Now run the below command in cloud shell again
+
+```bash
+curl -LO https://raw.githubusercontent.com/dev23-extremis/Hosting-a-Web-App-on-Google-Cloud-Platform-Using-Compute-Engine/main/devang2.sh
+sudo chmod +x devang2.sh
+./devang2.sh
+
+```
+
+
